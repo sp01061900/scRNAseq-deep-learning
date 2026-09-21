@@ -1,0 +1,7 @@
+scanpy
+torch
+scikit-learn
+matplotlib
+pandas
+jupyterlab
+
